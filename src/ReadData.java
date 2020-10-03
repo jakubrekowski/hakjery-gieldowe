@@ -13,7 +13,7 @@ public class ReadData {
 
             System.out.println("\nconnected \n\n");
 
-            double quotationsValue = 0;
+            // double quotationsValue = 0;
 
             return selling;
         }
